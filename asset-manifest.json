@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/PriceFx-Search/static/css/main.f855e6bc.css",
+    "main.js": "/PriceFx-Search/static/js/main.18960021.js",
+    "static/js/453.89ffba2e.chunk.js": "/PriceFx-Search/static/js/453.89ffba2e.chunk.js",
+    "index.html": "/PriceFx-Search/index.html",
+    "main.f855e6bc.css.map": "/PriceFx-Search/static/css/main.f855e6bc.css.map",
+    "main.18960021.js.map": "/PriceFx-Search/static/js/main.18960021.js.map",
+    "453.89ffba2e.chunk.js.map": "/PriceFx-Search/static/js/453.89ffba2e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.18960021.js"
+  ]
+}
